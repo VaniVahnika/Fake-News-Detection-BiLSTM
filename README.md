@@ -10,4 +10,3 @@ In summary, this repository performs the following operations:
 5. Preparing the dataset for training by performing tokenization and padding
 6. Build and train a bidirectional LSTM model
 7. Evaluating the model performance
-8. 
